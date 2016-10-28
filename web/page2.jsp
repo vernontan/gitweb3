@@ -9,9 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page 2</title>
+        <title>Page 2</title>
     </head>
     <body>
-        <h1>Hello World! Page 2</h1>
+        <h1>Page 2</h1>
+        <a href="index.html">back to main</a>
     </body>
 </html>
